@@ -1,0 +1,27 @@
+body{
+    background-color: whitesmoke;
+}
+header{
+    height:225px;
+}
+header img{
+    height:225px;
+    width: 100%;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background-color: darkred;
+}
+nav ul li{
+    list-style-type: none;
+    padding: 25px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+section{
+    height:1500px;
+}
